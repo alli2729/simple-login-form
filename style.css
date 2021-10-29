@@ -6,11 +6,11 @@
 }
 
 body {
-  background-color: hsl(0, 1%, 76%);
+  background-color: hsl(0, 0%, 100%);
 }
 
 .container {
-  margin: 50px auto;
+  margin: 100px auto;
   height: max-content;
   width: 300px;
   background-color: hsl(0, 0%, 100%);
